@@ -117,9 +117,7 @@ All of which said, please feel free to email me. Typically, if an email is *not*
 ## Extra Credit for Spinelli Center Workshops
 In consultation with Dr. Cat McCune of the Spinelli Quantitative Learning Center, we have devised a program to evaluate and revise your statistical knowledge and to supplement your understanding of Excel and Stata specifically. 
 
-First, to evaluate where you stand, we will use the following oneline tool, Aleks.com: 
-
-
+First, to evaluate where you stand, we will use Aleks.com, an online tool, as an initial assessment method for your statistical knowledge. 
 
 Maria is the statistics consultant at the Spinelli Center. She has a BA in Economics and a BA in Math & Stats. She is currently completing two MA degrees (one in public policy & another in resource economics). She can coach you on the use of Excel, Stata and R. Maria will run the workshops at the Spinelli Center. 
 
